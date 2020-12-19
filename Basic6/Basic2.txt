@@ -1,0 +1,2 @@
+Qb:the drawn inner triangle perspectively incorrect.
+Qc:the drawn inner triangle perspectively correct
